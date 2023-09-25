@@ -1,5 +1,5 @@
 html {
-    background-image: radial-gradient(circle at 12.5% 12.5%, #037097 0, #155572 25%, #173a4e 50%, #12212c 75%, #01070c 100%);
+    background-image:url("/assents/bag-backgroud2.jpg");
     height: 100%;
     font-family: 'Roboto', cursive;
 }
@@ -40,7 +40,7 @@ html {
     margin: 0.5em 0 1em;
     padding: 1em 0.5em;
     border-radius: 10px;
-    border: 2px solid #40112D;
+    border: 2px solid #000000;
 }
 
 .adicionar label {
@@ -48,7 +48,7 @@ html {
 }
 
 .cadastrar {
-    background-color: #40112D;
+    background-color: #3f2a20;
     color: #FFFFFF;
     cursor: pointer;
 }
